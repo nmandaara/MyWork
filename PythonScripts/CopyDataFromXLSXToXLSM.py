@@ -1,4 +1,3 @@
-
 def copyRange(startCol, startRow, endCol, endRow, sheet):
     rangeSelected = []
     #Loops through selected Rows
